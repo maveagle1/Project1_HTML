@@ -1,0 +1,45 @@
+body{
+  margin:0;
+  font-family: 'Amiko', sans-serif;
+}
+
+/* header */
+header {
+  height: 100px;
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  }
+
+
+header h1 {
+  padding-top: 20px;
+  margin: 0 auto;
+  font-size: 50px
+}
+
+/*-- main */
+
+li{
+  font-size: 1.2em
+}
+
+/* footer */
+
+footer {
+  height: 100px;
+  background-color: #000000;
+  color: white;
+}
+
+footer p {
+  padding-top: 30px
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+.center{
+  text-align: center;
+}
